@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\nunit.engine.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\Tests.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\Tests.pdb
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\nunit.framework.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\bin\Debug\nunit.framework.xml
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\obj\Debug\Tests.dll
+C:\Users\hp\Desktop\лунищфкв (49)\SPP_3-master\Tests\obj\Debug\Tests.pdb
